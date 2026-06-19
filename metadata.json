@@ -1,0 +1,6 @@
+{
+  "name": "WEYX Parfumes",
+  "description": "Eksklyuziv va hashamatli iforlar uyi. Weyx Parfumes provides a world of mystery, exclusivity, and sensory indulgence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
